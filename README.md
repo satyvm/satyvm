@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in web3 space.<br>👯 I’m looking to collaborate on web3 and ML-related projects.<br>🤝 I’m looking for help with anything, just ping me.<br>🌱 I’m currently learning in really "how to code".
+🔭 I’m currently working in web3 space.<br>👯 I’m looking to collaborate on web3 and ML-related projects.<br>🤝 I’m looking for help with anything, just ping me.<br>🌱 I’m currently learning really "how to code".
 
 
 ## 🌐 Socials:
