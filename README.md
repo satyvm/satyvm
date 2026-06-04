@@ -4,7 +4,7 @@
 <a href="https://github.com/satyvm"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=satyvm&style=for-the-badge&color=blue"></a>
 
 ![](https://streak-stats.demolab.com?user=satyvm&theme=github-dark-blue&hide_border=true)
-![](https://github-readme-stats.shion.dev/api?username=satyvm&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=satyvm&theme=github_dark&hide_title=true&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
 <!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=satyvm&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 <!-- https://github.com/marketplace/actions/generate-pacman-game-from-github-contribution-grid -->
