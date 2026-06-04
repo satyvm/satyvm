@@ -1,9 +1,15 @@
 ## [satyam.cv](https://satyam.cv/) ↗
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=satyvm&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=satyvm&theme=tokyonight&hide_border=false)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)<br>
-<br>
-[![](https://visitcount.itsvg.in/api?id=satyvm&icon=3&color=0)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyvm) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/satyvm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hi@satyvm.com) 
+<a href="https://github.com/satyvm"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=satyvm&style=for-the-badge&color=blue"></a>
+
+![](https://github-readme-stats.shion.dev/api?username=satyvm&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=satyvm&theme=dark&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=satyvm&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- https://github.com/marketplace/actions/generate-pacman-game-from-github-contribution-grid -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satyvm/satyvm/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satyvm/satyvm/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/satyvm/satyvm/output/pacman-contribution-graph-dark.svg">
+</picture>
