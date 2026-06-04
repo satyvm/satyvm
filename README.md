@@ -3,9 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyvm) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/satyvm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hi@satyvm.com) 
 <a href="https://github.com/satyvm"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=satyvm&style=for-the-badge&color=blue"></a>
 
-![](https://github-readme-stats.shion.dev/api?username=satyvm&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=satyvm&theme=dark&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=satyvm&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=satyvm&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=satyvm&theme=github-dark-blue&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=satyvm&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- https://github.com/marketplace/actions/generate-pacman-game-from-github-contribution-grid -->
 <picture>
