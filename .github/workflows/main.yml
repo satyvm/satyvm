@@ -20,14 +20,14 @@ jobs:
               uses: actions/checkout@v4
 
             - name: generate contribution graph SVGs
-              uses: abozanona/pacman-contribution-graph@main
+              uses: abozanona/pacman-contribution-graph@v5.0.0
               with:
                   github_user_name: ${{ github.repository_owner }}
-                  # Comma-separated list of game names to generate. Default: pacman
+                  github_token: ${{ secrets.READ_ONLY_TOKEN }}
                   games: 'pacman'
 
             - name: Generate Readme Stats
-              uses: stats-organization/github-readme-stats-action@v2
+              uses: stats-organization/github-readme-stats-action@v2.0.0
               with:
                 token: ${{ secrets.READ_ONLY_TOKEN }}
                 card: stats
@@ -35,7 +35,7 @@ jobs:
                 path: dist/readme-stats.svg
 
             - name: Generate Streak Stats
-              uses: DenverCoder1/github-readme-streak-stats@main
+              uses: DenverCoder1/github-readme-streak-stats@v1.7.0
               with:
                 token: ${{ secrets.READ_ONLY_TOKEN }}
                 options: user=satyvm&theme=github-dark-blue&hide_border=true
